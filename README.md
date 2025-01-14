@@ -34,3 +34,4 @@ LeonardoAi:
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via LeonardoAi
 
+[Ebook Saiyajin Viajante DIO.pdf](https://github.com/user-attachments/files/18415296/Ebook.Saiyajin.Viajante.DIO.pdf)
